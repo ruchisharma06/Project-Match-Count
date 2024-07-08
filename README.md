@@ -22,8 +22,12 @@ Run the command - Python matchwords.py
 
 ## This is my output-
 
-<img src="https://raw.githubusercontent.com/ruchisharma06/Project-Match-Count/main/output-ss-1.png" alt="Project Screenshot" width="600">
-<img src="https://raw.githubusercontent.com/ruchisharma06/Project-Match-Count/main/output-ss-2.png" alt="Project Screenshot" width="600">
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ruchisharma06/Project-Match-Count/main/output-ss-1.png" alt="Project Screenshot"  alt="Image 1" width="45%">
+<img src="https://raw.githubusercontent.com/ruchisharma06/Project-Match-Count/main/output-ss-2.png" alt="Project Screenshot"  alt="Image 2" width="45%">
+
+</p>
 
 # What has been tested?
 
